@@ -1,0 +1,16 @@
+$TTL 86400
+@   IN  SOA     arendabernhardyoas.com. root.arendabernhardyoas.com. (
+        2014071001  ;Serial
+        3600        ;Refresh
+        1800        ;Retry
+        604800      ;Expire
+        86400       ;Minimum TTL
+)
+
+@       IN  NS      arendabernhardyoas.com.
+250     IN  PTR     arendabernhardyoas.com.
+250     IN  PTR     file.arendabernhardyoas.com
+250     IN  PTR     mail.arendabernhardyoas.com
+172     IN  PTR     router.arendabernhardyoas.com
+249     IN  PTR     client1.arendabernhardyoas.com
+248     IN  PTR     client2.arendabernhardyoas.com
